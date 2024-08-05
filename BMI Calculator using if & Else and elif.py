@@ -1,4 +1,3 @@
-
 #Exercise no 4 - BMI Calculator using if & Else and elif
 
 weight = float(input('Enter weight in kg:'))
