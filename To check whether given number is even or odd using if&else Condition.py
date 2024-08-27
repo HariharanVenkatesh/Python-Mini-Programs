@@ -4,4 +4,4 @@ number = int(input("Enter a Number: "))
 if number % 2 == 0:
     print("This is Even number")
 else:
-    print("This is Odd Number:  ")
+    print("This is Odd Number")
